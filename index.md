@@ -1,5 +1,5 @@
 ```markdown
-Это мой * портфолио
+#### Это мой портфолио
 Кот не тупой
 ## Header 2
 ### Header 3
@@ -9,6 +9,7 @@
 
 1. Numbered
 2. List
+3. Ош
 
 **Bold** and _Italic_ and `Code` text
 
