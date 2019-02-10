@@ -1,19 +1,12 @@
 ```markdown
-# Siarhei Sakalou
+# SALAKOU SIARHEI
 
-## Now i am a C# student
+## Current work in: VTB Bank (Belarus)
 
-# Job
+# Linked with current C# education skills:
+  - Educating Python in **it-step** (without frameworks) in 2018
+  - Educating Java (18 level) in **Javarush** in 2017
 
-# Linked with current education skills:
-  - Educating Python (without frameworks) in 2018
-  - Educating Java (18 level) in Javarush in 2017
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Contact: saergen@yandex.ru
 
 ```
